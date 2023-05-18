@@ -58,8 +58,8 @@
     4. All those rows containing negative "ride_length" are **deleted**. Those rows were **showing duplicate entries** in "ride_id" column.
     5. After deleting the irrelevant columns, **no blank cells** were found in the data.
     6. "ride_id" column is trimmed using "TRIM" function in excel to **remove unnecessary spaces** in cells.
-      ![No Duplicate Rows.png](attachment:0e1f7b5b-13d1-41fa-9127-3f4a1c01c30d.png)
-     
+      ![No Duplicate Rows](https://github.com/Apriya01/Cyclist-Bike-Share/assets/126944168/66bc64cc-afbd-481c-a93f-b87c1304e248)
+
      In Tableau, I checked the **Total Count of Ride Id** and **Distinct Count of Ride Id**. As both were **same**, means there are **no duplicate rows**.
 
 
