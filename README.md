@@ -59,6 +59,7 @@
     5. After deleting the irrelevant columns, **no blank cells** were found in the data.
     6. "ride_id" column is trimmed using "TRIM" function in excel to **remove unnecessary spaces** in cells.
       ![No Duplicate Rows](https://github.com/Apriya01/Cyclist-Bike-Share/assets/126944168/66bc64cc-afbd-481c-a93f-b87c1304e248)
+![No Duplicate Rows](https://github.com/Apriya01/Cyclist-Bike-Share/assets/126944168/63df50c4-3451-44db-8dfc-690b501daf09)
 
      In Tableau, I checked the **Total Count of Ride Id** and **Distinct Count of Ride Id**. As both were **same**, means there are **no duplicate rows**.
 
