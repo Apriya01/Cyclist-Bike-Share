@@ -85,53 +85,41 @@
 
 ![Total Rides](https://github.com/Apriya01/Cyclist-Bike-Share/assets/126944168/2ba44fea-d336-486a-b048-41c02ff30d9c)
 
-![Total Rides.png](attachment:08974cbb-3fd6-4f2f-9a1e-efd9a9f45435.png)
 * We can see the total number of casual riders in a year are **slightly lesser** than annual members.
 
 ![No. of Rides (Monthly)](https://github.com/Apriya01/Cyclist-Bike-Share/assets/126944168/d3acffc1-4d30-4a7f-a427-54c91942c2f2)
 
-![No. of Rides (Monthly).png](attachment:51041878-1579-46c7-ba1b-144d7b3d0240.png)
 * It shows that the total number of riders **fall during winter season** and **rise during summer season**. The behaviour of casual riders and members **tend to 
   be the same** as the season changes.
 
 ![No. of Rides (Weekly)](https://github.com/Apriya01/Cyclist-Bike-Share/assets/126944168/17db2ce7-229b-4a2f-802b-8e17edf57acf)
 
-![No. of Rides (Weekly).png](attachment:a7e298da-69ac-43d8-9246-f6860ac91c26.png)
 * Here it shows **more casual riders** are using bike share on **Weekends** (ie., Saturdays and Sundays). But there are a fixed number of casual riders **using on 
   Weekdays**, may be commuting. While the number of members riding **tend to be same almost daily**.
 
 ![No. of Rides (Hours)](https://github.com/Apriya01/Cyclist-Bike-Share/assets/126944168/a4a9e424-da9c-4345-b7ba-7d1621235e33)
 
-![No. of Rides (Hours).png](attachment:d7047b51-f3e7-46cb-8cdd-7d87ecb9a392.png)
 * In a day, casual riders and members use bike share **more during afternoon**, **peak use during evening**. While in the **morning** time, the number of **casual   riders are way less than the members**.
 
   > # **Visualization of Average Ride Length**
   > ![Average Ride Length](https://github.com/Apriya01/Cyclist-Bike-Share/assets/126944168/c19f6232-6d54-404f-82ba-fe9dd1b52bf9)
 
-    ![Average Ride Length.png](attachment:dab4f5a7-e8e3-4c87-a8f9-2485b8c5891d.png)
     * The average ride length of casual riders are **more than twice** of members. 
 
-![Monthly Average Ride Length](https://github.com/Apriya01/Cyclist-Bike-Share/assets/126944168/3f8b0235-91a1-4230-b8cd-97569adffb42)
-
-    ![Monthly Average Ride Length.png](attachment:82da72be-6fea-43f7-89ba-80ab6ed07aa8.png)
+    ![Monthly Average Ride Length](https://github.com/Apriya01/Cyclist-Bike-Share/assets/126944168/3f8b0235-91a1-4230-b8cd-97569adffb42)
+    
     * During the year, average ride length of casual riders are **more than twice** than members in all seasons.
 
-![Weekly Average Ride Length](https://github.com/Apriya01/Cyclist-Bike-Share/assets/126944168/b63b1ede-26a9-4c22-a7a4-ee665110b5a5)
+    ![Weekly Average Ride Length](https://github.com/Apriya01/Cyclist-Bike-Share/assets/126944168/b63b1ede-26a9-4c22-a7a4-ee665110b5a5)
 
-    ![Weekly Average Ride Length.png](attachment:072fe0ca-1b8c-4f10-9963-0b1d8fc7bd17.png)
     * In **Weekends** casual riders' ride length is **maximum** when compared to Weekdays. Members' ride length tend to be almost same in all Weekdays and      
       marginally higher in Weekends. 
       
    > # **Visualization of Rideable Type Usage**
-
-  ![Rideable Type Usage](https://github.com/Apriya01/Cyclist-Bike-Share/assets/126944168/dd16fd6f-ed1b-46e9-83e0-5267581f1669)
-
-    ![Rideable Type Usage.png](attachment:1eafd702-f155-4f3b-8f88-7979cfbcd1d2.png)
-  
+  ![Rideable Type Usage](https://github.com/Apriya01/Cyclist-Bike-Share/assets/126944168/dd16fd6f-ed1b-46e9-83e0-5267581f1669)  
   
   ![users preference](https://github.com/Apriya01/Cyclist-Bike-Share/assets/126944168/5f64d6fd-846a-4402-a3d7-2117378ea28f)
 
-  ![users preference.png](attachment:29f4f069-d005-49aa-9045-275f4451a11c.png)
     * **Most User's** are Prefered the **Classic bike** as in no. of **3.25mn users** other than two models of bike in both **Casual** and **Member** riders' 
         section.
 
